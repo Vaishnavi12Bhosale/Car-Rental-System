@@ -22,7 +22,4 @@ This project demonstrates **Object-Oriented Programming (OOP)** concepts.
 
 ---
 
-## ▶️ How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/Car-Rental-System.git
+
